@@ -9,3 +9,5 @@ I have uploaded the Lab 2 Ex 1 and Lab 2 Ex 2a. I have not yet finished the othe
 I have not yet started Lab 3. I will start it during the weekend.
 
 21 July #2: I have uploaded Lab 2 Ex 2c. I can't think of a way to do Lab 2 Ex 2b.
+
+22 July: I have completed and uploaded Lab 2 Ex 2b.
