@@ -10,4 +10,4 @@ I have not yet started Lab 3. I will start it during the weekend.
 
 21 July #2: I have uploaded Lab 2 Ex 2c. I can't think of a way to do Lab 2 Ex 2b.
 
-22 July: I have completed and uploaded Lab 2 Ex 2b and Lab 2 Ex 2d.
+22 July: I have completed and uploaded Lab 2 Ex 2b, Lab 2 Ex 2d and Lab 2 Ex 2e. Lab 2 is now fully complete and uploaded. I will try to have all of Lab 3 completed tomorrow.
