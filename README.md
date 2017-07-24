@@ -15,4 +15,4 @@ I have not yet started Lab 3. I will start it during the weekend.
 
 July 24 #1: I worked on Lab 3 Ex 1 over the weekend and have not been able to get it to work. I will try tomorrow. I have completed and uploaded Lab 3 Ex 2. I do not understand Lab 3 Ex 3 and will come back to it later
 
-July 24 #2: I have completed Lab 4 Ex 1 and uploaded it.
+July 24 #2: I have completed Lab 4 Ex 1 and uploaded it. I have also finished and uploaded Lab 4 Ex2.
