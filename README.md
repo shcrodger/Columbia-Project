@@ -14,4 +14,4 @@ I have not yet started Lab 3. I will start it during the weekend.
 22 July: I have completed and uploaded Lab 2 Ex 2b, Lab 2 Ex 2d and Lab 2 Ex 2e. Lab 2 is now fully complete and uploaded. I will try to have all of Lab 3 completed tomorrow.
 
 July 24: I wo
-rked on Lab 3 Ex 1 over the weekend and have not been able to get it to work. I will try tomorrow. I have completed and uploaded Lab 3 Ex 2.
+rked on Lab 3 Ex 1 over the weekend and have not been able to get it to work. I will try tomorrow. I have completed and uploaded Lab 3 Ex 2. I do not understand Lab 3 Ex 3 and will come back to it later
