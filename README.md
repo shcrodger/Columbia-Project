@@ -17,4 +17,4 @@ July 24 #1: I worked on Lab 3 Ex 1 over the weekend and have not been able to ge
 
 July 24 #2: I have completed Lab 4 Ex 1 and uploaded it. I have also finished and uploaded Lab 4 Ex2.
 
-July 25: I have completed and uploaded Lab 4 Ex 3 and Lab 4 Ex 4.
+July 25: I have completed and uploaded Lab 4 Ex 3 and Lab 4 Ex 5. I did not understand what I need to do in Lab 4 Ex 4
