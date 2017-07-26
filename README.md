@@ -21,4 +21,6 @@ July 25 #1: I have completed and uploaded Lab 4 Ex 3 and Lab 4 Ex 5. I did not u
 
 July 25 #2: I have completed and uploaded Lab 4 Ex 5, 6 and 7.
 
-July 25 #3: I have completed and uploaded Lab 4 Ex 9. I am unable to resolve an error with Lab 4 Ex 8 and will try tomorrow with some help
+July 25 #3: I have completed and uploaded Lab 4 Ex 9. I am unable to resolve an error with Lab 4 Ex 8 and will try tomorrow with some help. I have also begun Lab 5 Ex 1
+
+July 26: I have finished Lab 4 Ex 8 and uploaded it.
