@@ -27,4 +27,4 @@ July 26 #1: I have finished Lab 4 Ex 8 and uploaded it.
 
 July 26 #2: I have finished and uploaded Lab 5 Ex 1.
 
-July 26 #3: I have finished and uploaeded Lab 5 Ex 2.
+July 26 #3: I have finished and uploaeded Lab 5 Ex 2 and Lab 5 Ex 3.
