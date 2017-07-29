@@ -32,3 +32,5 @@ July 26 #3: I have finished and uploaeded Lab 5 Ex 2 and Lab 5 Ex 3.
 July 27: I have finished and uploaded Lab 5 Ex 4.
 
 July 28 #1: I have finished and uploaded Lab 5 Ex 5.
+
+July 29: I have finished and uploaded Lab 6 Ex 1. However I did it without recursion. I will try to find a way to use recursion in the program.
