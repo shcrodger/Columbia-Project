@@ -40,3 +40,5 @@ July 30 #1: I have uploaded Lab 5 Ex 8 and Lab 6 Ex 1, 2 and 3 even though they 
 July 30 #2: Ihave completed and uploaded Lab 5 Ex 8 and Lab 6 Ex 2
 
 July 31 #1: I have completed and uploaded Lab 6 Ex 3
+
+July 31 #2: I have completed and uploaded Lab 6 Ex 4.
