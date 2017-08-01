@@ -42,3 +42,5 @@ July 30 #2: Ihave completed and uploaded Lab 5 Ex 8 and Lab 6 Ex 2
 July 31 #1: I have completed and uploaded Lab 6 Ex 3
 
 July 31 #2: I have completed and uploaded Lab 6 Ex 4.
+
+August 1 #1: I have uploaded Lab 7 Ex 1
