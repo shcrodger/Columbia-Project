@@ -46,3 +46,5 @@ July 31 #2: I have completed and uploaded Lab 6 Ex 4.
 August 1 #1: I have uploaded Lab 7 Ex 1. I was unable to work out Lab 6 Ex 5 and 6. I will try to finish them later
 
 August 1 #2: I have uploaded Lab 7 Ex 2
+
+August 3: I have finished and uploaded Lab 7 Ex 4 after working on it for two days
