@@ -33,7 +33,7 @@ int main()
 			results[p] = bigWord[i];
 			p++;
 			}} 
-i =0; 
+i = 0; 
 q = strlen(results);
 for(i = 0; i < q; i ++){
 printf("%c", results[i]);
